@@ -48,4 +48,4 @@ La aplicación solicita al usuario su nombre y edad, seguidos por los detalles d
 
 2. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/distribuidora-vehiculos.git
+   git clone https://github.com/Shadownlook/Distribuidora.git
